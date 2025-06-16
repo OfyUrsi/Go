@@ -18,7 +18,7 @@ func main() {
 		firstName: "Rafa",
 		lastName: "Cabrera Romero",
 		contactDetails: contactDetails{
-			email: "rafa@rafa.com",
+			email: "rafa@testestest.com",
 			zipCode: 12345,
 		},
 	}
